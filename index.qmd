@@ -6,7 +6,7 @@ format:
     html-math-method: katex
 ---
 
-<center><a><img src="imgs/BSH_Logo_RGB_300.png" alt="NASA logo to left of Openscapes logo" width="200px"/></a></center>
+<center><a href="https://bsh-zuerich.ch/"><img src="imgs/BSH_Logo_RGB_300.png" alt="NASA logo to left of Openscapes logo" width="200px"/></a></center>
 
 # Reparaturanleitungen für Velos
 Wir von der Nachhaltigskeitsgruppe haben für euch eine Sammlung von Reparaturanleitungen für Velos zusammengestellt. Diese Anleitungen sollen euch helfen, euer Velo selber zu reparieren und so die Lebensdauer eures Velos zu verlängern.
