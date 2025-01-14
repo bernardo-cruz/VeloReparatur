@@ -1,0 +1,73 @@
+---
+format:
+  html:
+    lang: de
+    toc: true
+    html-math-method: katex
+---
+
+<center><a><img src="imgs/BSH_Logo_RGB_300.png" alt="NASA logo to left of Openscapes logo" width="200px"/></a></center>
+
+# Reparaturanleitungen für Velos
+Wir von der Nachhaltigskeitsgruppe haben für euch eine Sammlung von Reparaturanleitungen für Velos zusammengestellt. Diese Anleitungen sollen euch helfen, euer Velo selber zu reparieren und so die Lebensdauer eures Velos zu verlängern.
+
+## Velohelm
+Sicherheit geht vor! Tragt immer einen Velohelm, wenn ihr mit dem Velo unterwegs seid.
+Hier findet ihr eine Anleitung, wie ihr den Velohelm richtig anzieht und einstellt.
+
+[![](../imgs/Velohelm)](https://youtu.be/-AkwkxSwBmQ?si=XMSy13_LLvYTNM9d)  
+
+## Ketten reinigen
+Die Kette ist das Herzstück des Velos. Damit sie lange hält, muss sie regelmässig gereinigt werden.
+
+[![](../imgs/Ketten reinigen)](https://youtu.be/DagTqcQClzo?si=S4OfFXgqftZ9n-Zh) 
+
+## Kette ölen
+Die Kette knirscht und quietscht? Oder hast du die Kette soeben gereinigt?
+Dann wird es Zeit, die Kette zu ölen.
+
+[![](../imgs/Kette ölen)](https://youtu.be/pgcPdwY0mLg?si=wEwvh4IKpaB4S8NI)  
+
+## Velo putzen
+Das Velo ist dreckig? Dann wird es Zeit, das Velo zu putzen.
+
+[![](../imgs/Velo putzen)](https://youtu.be/YqjSaplI7CE?si=2KzDqmScr2l1YERg)  
+
+## Rad demontieren
+Das Rad ist platt? Oder möchtest du die Reifen richtig putzen?
+Dann wird es Zeit, das Rad zu demontieren.
+
+[![](../imgs/Rad demontieren)](https://youtu.be/nPJ98JZQtx0?si=Zolh8lKloI8M-OUR)  
+
+## Reifen Druck prüfen
+Der Korrekte Reifendruck ist wichtig für die Fahrsicherheit und den Fahrkomfort.
+
+[![](../imgs/Reifen Druck prüfen)](https://youtu.be/nKD_cWKnskk?si=Ni92hsVkHszAgP8q)  
+
+## Schlauch reparieren
+Erlebst du einen Platten? Dann wird es Zeit, den Schlauch zu reparieren.
+
+[![](../imgs/Schlauch reparieren)](https://youtu.be/hiZBu3NxVQg?si=kL0o-sKvfvi1tpw4)  
+
+## Schlauch wechseln
+Ist der Schaden am Schlauch zu gross für eine Reparatur? Dann wird es Zeit, den Schlauch zu wechseln.
+
+[![](../imgs/Schlauch wechseln)](https://youtu.be/Q2f_Iwyud60?si=D7oRJw2deAfBiWVt)  
+
+## Bremse einstellen
+Die Bremse schleift oder bremst nicht richtig? Dann wird es Zeit, die Bremse einzustellen.
+
+[![](../imgs/Bremse einstellen)](https://youtu.be/wyTJsTAZom8?si=sCHnSFLMZBezzMZo)  
+
+## Bremsbeläge wechseln
+Die Bremsbeläge sind abgenutzt? Dann wird es Zeit, die Bremsbeläge zu wechseln.
+
+### Bremsbeläge wechseln - Normal 
+Hier findet ihr eine Anleitung, wie ihr die Bremsbeläge bei einer normalen Bremse wechselt.
+
+[![](../imgs/Bremsbeläge wechseln [Normal])](https://youtu.be/9p6onCzlZu8?si=0dyt2mI6Jd3bCan9)  
+
+### Bremsbeläge wechseln - Scheibenbremse
+Hier findet ihr eine Anleitung, wie ihr die Bremsbeläge bei einer Bremsscheibe wechselt.
+
+[![](../imgs/Bremsbeläge wechseln [Scheibenbremse])](https://youtu.be/i_FjOJC0HWM?si=sFUK5gbAJH9OUc-_)  
