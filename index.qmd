@@ -62,12 +62,10 @@ Die Bremse schleift oder bremst nicht richtig? Dann wird es Zeit, die Bremse ein
 ## Bremsbeläge wechseln
 Die Bremsbeläge sind abgenutzt? Dann wird es Zeit, die Bremsbeläge zu wechseln.
 
-### Bremsbeläge wechseln - Normal 
 Hier findet ihr eine Anleitung, wie ihr die Bremsbeläge bei einer normalen Bremse wechselt.
 
 [![](./imgs/Bremsbeläge wechseln [Normal].png)](https://youtu.be/9p6onCzlZu8?si=0dyt2mI6Jd3bCan9)  
 
-### Bremsbeläge wechseln - Scheibenbremse
 Hier findet ihr eine Anleitung, wie ihr die Bremsbeläge bei einer Bremsscheibe wechselt.
 
 [![](./imgs/Bremsbeläge wechseln [Scheibenbremse].png)](https://youtu.be/i_FjOJC0HWM?si=sFUK5gbAJH9OUc-_)  
